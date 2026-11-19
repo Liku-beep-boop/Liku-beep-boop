@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-rojas-51356919b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/danielrojas-it/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/Dany_DEV5"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
@@ -71,4 +71,4 @@ I also enjoy shipping small, useful tools that solve real problems for non-techn
 
 ---
 
-<p align="center">Thanks for stopping by! Feel free to reach out on <a href="https://www.linkedin.com/in/daniel-rojas-51356919b/">LinkedIn</a>.</p>
+<p align="center">Thanks for stopping by! Feel free to reach out on <a href="https://www.linkedin.com/in/danielrojas-it/">LinkedIn</a>.</p>
