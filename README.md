@@ -27,8 +27,8 @@ I also enjoy shipping small, useful tools that solve real problems for non-techn
 | Project | Description | Stack |
 |---|---|---|
 | **[Kip](https://github.com/Liku-beep-boop/kip)** | Sticky notes that stay on top of every window, work offline and hide during screen sharing. Ships with an installer and releases. | C# · WPF · .NET 10 |
+| **[E-commerce API](https://github.com/Liku-beep-boop/nest-postgres-api-rest-jwt)** | E-commerce backend with JWT auth, role-based access (admin/user), products & categories, validation and Swagger docs. | NestJS · TypeORM · PostgreSQL · Docker |
 | **[URL Shortening Service](https://github.com/Liku-beep-boop/URL-shortening-service)** | REST API to shorten URLs, redirect and track clicks, documented with Swagger. | Node.js · Express · Sequelize · SQLite |
-| **[NestJS CRUD API](https://github.com/Liku-beep-boop/nestjs-crud-api)** | CRUD REST API with Prisma ORM, PostgreSQL in Docker and Swagger docs. | NestJS · Prisma · PostgreSQL · Docker |
 | **[Personal Blog](https://github.com/Liku-beep-boop/personal-blog)** | Server-rendered blog with a JWT-protected admin area. [Live demo](https://personal-blog-k4rp.onrender.com) | Node.js · Express · EJS · JWT |
 | **[Centro de Yoga](https://github.com/Liku-beep-boop/centro-yoga)** | Static website editable from a web CMS; every edit commits to Git and redeploys on Cloudflare Pages. | Astro · Sveltia CMS · Cloudflare |
 | **[Lunes](https://github.com/Liku-beep-boop/Monday)** | Windows app that compresses PDFs, images, video and audio to fit upload size limits. | Python · Tkinter |
